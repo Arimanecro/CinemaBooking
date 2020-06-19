@@ -1,0 +1,7 @@
+{
+  "name": "Cinema Booking",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
