@@ -21,7 +21,7 @@ type propsCard = {
 };
 
 const stripePromise = loadStripe(
-  "pk_test_51GtG4fDPITEOQdN2NjBMhHZepnIvOapS02NlHPYAroNlIOp2CGjPBuuPbJHJh4KAsfynVRlzwh7c7MJIOn5lfmo1004pvM58Ld",
+  "pk_test_***********************************",
   {
     locale: "en",
   }
