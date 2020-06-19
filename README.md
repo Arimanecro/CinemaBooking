@@ -10,7 +10,7 @@
    
    ***:heavy_check_mark: Stripe***
       
-[Video](https://arimanecro.github.io/video/  "Video")
+[Video](https://arimanecro.github.io/video/cinema.html  "Video")
 
 ***Screenshot:***
 
